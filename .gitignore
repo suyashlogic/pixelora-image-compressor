@@ -1,0 +1,4 @@
+node_modules/
+compressed/
+.env
+.DS_Store
